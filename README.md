@@ -30,6 +30,8 @@ This section updates itself every day from [my blog feed](https://www.aravindaru
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,supabase,vercel,linux" alt="TypeScript, Next.js, React, Tailwind CSS, Python, Supabase, Vercel, Linux" height="40" />
 </p>
 
-## Get in touch
+## Find me online
+
+[YouTube](https://www.youtube.com/@Mr_ViiND) · [LinkedIn](https://www.linkedin.com/in/mrviind) · [X](https://x.com/Mr_ViiND) · [Instagram](https://www.instagram.com/mr_viind) · [Threads](https://www.threads.com/@mr_viind) · [Facebook](https://www.facebook.com/Mrviind) · [Bluesky](https://bsky.app/profile/mrviind.bsky.social) · [Mastodon](https://mastodon.social/@mr_viind)
 
 The fastest way to reach me is through [aravindarumugam.com](https://aravindarumugam.com).
